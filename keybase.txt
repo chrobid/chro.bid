@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/chrobid
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://chro.bid
+  * I am chrobid (https://keybase.io/chrobid) on keybase.
+  * I have a public key ASDTWjyqlLJbAumcQoiR1h9osAZkkdATfUFODNngpd5HFQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d35a3caa94b25b02e99c428891d61f68b0066491d0137d414e0cd9e0a5de47150a",
+      "host": "keybase.io",
+      "kid": "0120d35a3caa94b25b02e99c428891d61f68b0066491d0137d414e0cd9e0a5de47150a",
+      "uid": "a252e8ea0a78b783e157ad93dfd35a19",
+      "username": "chrobid"
+    },
+    "merkle_root": {
+      "ctime": 1550510741,
+      "hash": "a55f7bc2b66a5d6c5f8de9194619ebda4ac22a63a1c93ca88559c7d881392a80f645ec846d8dd6c2b0727b8855954b8bf208bca7710e831088844e0bfc440776",
+      "hash_meta": "7bd436bba2c42d6fa6e961c61dc76e44217faf501069d8caf5362227425d4166",
+      "seqno": 4786653
+    },
+    "service": {
+      "entropy": "mqaN9lNkh6ZSZNwyimHpLtZB",
+      "hostname": "chro.bid",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1550510757,
+  "expire_in": 504576000,
+  "prev": "36d2e36431bf5aee0db91b6e121f02e7f427dd89f2b99c065666a88715a8fb5f",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg01o8qpSyWwLpnEKIkdYfaLAGZJHQE31BTgzZ4KXeRxUKp3BheWxvYWTESpcCDMQgNtLjZDG/Wu4NuRtuEh8C5/Qn3YnyuZwGVmaohxWo+1/EIGa9kiIU8TC9ssGkOcRcpN3Qxw6e3CGJPjVf/wx52x+8AgHCo3NpZ8RAnojThJd9cn+zdYmwCq4p2DzvTJCYjREFf1PyctTv9etPB4JjInypYUHIWbwdUn6pRlsWDeOXil+WmTHD/DxBDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIB5s9dYOq2w9rxvdtyJFs3GInf+wJ50EpheVEBGA9GUmo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/chrobid
+
+==================================================================
