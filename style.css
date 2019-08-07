@@ -12,7 +12,10 @@ body{
 .container a{
     font-family: sans-serif;
     font-weight: bold;
-    font-size: 3vh;
+    font-size: 4vh;
     text-decoration: none;
     color: #DDDDDD;
+}
+.container a:hover{
+    text-decoration: underline;
 }
