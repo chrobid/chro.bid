@@ -7,12 +7,12 @@ body{
 }
 .container img{
     width: auto;
-    height: 33%;
+    height: 33vh;
 }
 .container a{
     font-family: sans-serif;
     font-weight: bold;
-    font-size: 5vh;
+    font-size: 3vh;
     text-decoration: none;
     color: #DDDDDD;
 }
