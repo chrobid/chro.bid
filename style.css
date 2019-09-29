@@ -1,20 +1,46 @@
+/*
+gruvbox all the things
+https://github.com/morhetz/gruvbox
+
+black:  1d2021
+white:  ebdbb2
+red:    fb4934
+green:  b8bb26
+yellow: fabd2f
+blue:   83a598
+purple: d3869b
+aqua:   8ec07c
+*/
+
 body{
-    background-color: #222222;
+    background-color: #1d2021;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 16pt;
 }
 .container{
     padding-top: 5%;
     padding-left: 5%;
 }
 .container img{
-    width: auto;
-    height: 33vh;
+    width: 200px;
+    height: 200px;
 }
-.container a{
-    font-family: sans-serif;
-    font-weight: bold;
-    font-size: 4vh;
+.container a.red{
     text-decoration: none;
-    color: #DDDDDD;
+    color: #fb4934;
+}
+.container a.green{
+    text-decoration: none;
+    color: #b8bb26;
+}
+.container a.blue{
+    text-decoration: none;
+    color: #83a598;
+}
+.container a.yellow{
+    text-decoration: none;
+    color: #fabd2f;
 }
 .container a:hover{
     text-decoration: underline;
