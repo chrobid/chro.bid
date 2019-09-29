@@ -16,15 +16,15 @@ body{
     background-color: #1d2021;
     font-family: sans-serif;
     font-weight: bold;
-    font-size: 16pt;
+    font-size: 4vh;
 }
 .container{
     padding-top: 5%;
     padding-left: 5%;
 }
 .container img{
-    width: 200px;
-    height: 200px;
+    width: auto;
+    height: 33vh;
 }
 .container a.red{
     text-decoration: none;
