@@ -11,10 +11,10 @@ body{
     text-align: center;
     font-family: sans-serif;
     font-weight: bold;
-    font-size: 4vh;
+    font-size: 6vh;
 }
 .name{
-    font-size: 6vh;
+    font-size: 8vh;
 }
 .container a.red{
     text-decoration: none;
