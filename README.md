@@ -1,6 +1,6 @@
 # marenbeam.com
 
-This is the source for my personal site, accessible [here](https://www.marenbeam.com)
+This is the source for my personal site, accessible [here](https://www.marenbeam.com).
 
 Changes to the site are automatically deployed by a once-per-hour cron job that runs on the server. The cron job simply clones the repo, and rsyncs the necessary things to `/var/www` so that nginx can serve them.
 
