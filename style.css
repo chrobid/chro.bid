@@ -5,17 +5,16 @@ https://github.com/morhetz/gruvbox
 
 body{
     background-color: #fbf1c7;
-    font-size: 100%;
 }
 .container{
     padding-top: 20%;
     text-align: center;
     font-family: sans-serif;
     font-weight: bold;
-    font-size: 2em;
+    font-size: 4vh;
 }
 .name{
-    font-size: 1.5em;
+    font-size: 6vh;
 }
 .container a.red{
     text-decoration: none;
