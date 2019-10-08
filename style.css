@@ -1,46 +1,53 @@
 /*
 gruvbox all the things
 https://github.com/morhetz/gruvbox
-
-black:  1d2021
-white:  ebdbb2
-red:    fb4934
-green:  b8bb26
-yellow: fabd2f
-blue:   83a598
-purple: d3869b
-aqua:   8ec07c
 */
 
 body{
-    background-color: #1d2021;
-    font-family: sans-serif;
-    font-weight: bold;
-    font-size: 4vh;
+    background-color: #fbf1c7;
+    font-size: 100%;
 }
 .container{
-    padding-top: 5%;
-    padding-left: 5%;
+    padding-top: 20%;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 2em;
 }
-.container img{
-    width: auto;
-    height: 33vh;
+.name{
+    font-size: 1.5em;
 }
 .container a.red{
     text-decoration: none;
-    color: #fb4934;
+    color: #cc241d;
 }
 .container a.green{
     text-decoration: none;
-    color: #b8bb26;
-}
-.container a.blue{
-    text-decoration: none;
-    color: #83a598;
+    color: #98971a;
 }
 .container a.yellow{
     text-decoration: none;
-    color: #fabd2f;
+    color: #d79921;
+}
+.container a.blue{
+    text-decoration: none;
+    color: #458588;
+}
+.container a.purple{
+    text-decoration: none;
+    color: #b16286;
+}
+.container a.aqua{
+    text-decoration: none;
+    color: #689d6a;
+}
+.container a.white{
+    text-decoration: none;
+    color: #fbf1c7;
+}
+.container a.black{
+    text-decoration: none;
+    color: #3c3836;
 }
 .container a:hover{
     text-decoration: underline;
