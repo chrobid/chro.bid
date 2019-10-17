@@ -14,7 +14,8 @@ body{
     font-size: 6vh;
 }
 .name{
-    font-size: 8vh;
+    font-size: 10vh;
+    font-weight: normal;
 }
 .container a.red{
     text-decoration: none;
