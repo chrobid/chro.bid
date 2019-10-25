@@ -8,14 +8,11 @@ body{
 }
 .container{
     padding-top: 10%;
-    text-align: center;
+    padding-left: 10%;
+    text-align: left;
     font-family: sans-serif;
     font-weight: bold;
     font-size: 6vh;
-}
-.name{
-    font-size: 10vh;
-    font-weight: normal;
 }
 .container a.red{
     text-decoration: none;
