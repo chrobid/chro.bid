@@ -11,6 +11,11 @@ body{
     font-size: 6vh;
 }
 
+img{
+    width: auto;
+    height: 30vh;
+}
+
 a{
     font-weight: normal;
     text-decoration: none;
