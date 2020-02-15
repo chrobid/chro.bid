@@ -5,50 +5,41 @@ https://github.com/morhetz/gruvbox
 
 body{
     background-color: #fbf1c7;
-}
-.container{
-    padding-top: 10%;
-    padding-left: 10%;
-    text-align: left;
+    text-align: center;
     font-family: sans-serif;
     font-weight: bold;
     font-size: 6vh;
 }
-.container a{
+
+a{
     font-weight: normal;
-}
-.container a.red{
     text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+a.red{
     color: #cc241d;
 }
-.container a.green{
-    text-decoration: none;
+a.green{
     color: #98971a;
 }
-.container a.yellow{
-    text-decoration: none;
+a.yellow{
     color: #d79921;
 }
-.container a.blue{
-    text-decoration: none;
+a.blue{
     color: #458588;
 }
-.container a.purple{
-    text-decoration: none;
+a.purple{
     color: #b16286;
 }
-.container a.aqua{
-    text-decoration: none;
+a.aqua{
     color: #689d6a;
 }
-.container a.white{
-    text-decoration: none;
+a.white{
     color: #fbf1c7;
 }
-.container a.black{
-    text-decoration: none;
+a.black{
     color: #3c3836;
-}
-.container a:hover{
-    text-decoration: underline;
 }
